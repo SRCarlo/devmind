@@ -8,6 +8,7 @@
 [![Vite 8](https://img.shields.io/badge/Vite-8.0-646CFF?logo=vite&logoColor=white&style=for-the-badge)](https://vitejs.dev)
 [![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS-v4.0-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)](https://tailwindcss.com)
 [![ReactFlow](https://img.shields.io/badge/@xyflow/react-12.0-FF007A?style=for-the-badge)](https://reactflow.dev)
+[![Deployed on Vercel](https://img.shields.io/badge/Vercel-Deployed-black?logo=vercel&style=for-the-badge)](https://vercel.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg?style=for-the-badge)](LICENSE)
 
 <br/>
